@@ -1,8 +1,4 @@
-Here’s a clean and clear `README.md` for your `ejwt` project:
 
----
-
-````md
 # ejwt — Simple JWT Authentication Server
 
 This is a minimal Actix-Web server in Rust that demonstrates basic JSON Web Token (JWT) authentication. It exposes three endpoints:
@@ -145,12 +141,4 @@ This is a demo and **not suitable for production**:
 
 ---
 
-## 📧 Author
-
-You! 🎉
-
-```
-
-Let me know if you want a badge, license section, `.env` support, or Dockerfile added too.
-```
 
