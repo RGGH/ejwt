@@ -1,5 +1,5 @@
 
-# ejwt — Simple JWT Authentication Server
+# Simple JWT Authentication Server
 
 This is a minimal Actix-Web server in Rust that demonstrates basic JSON Web Token (JWT) authentication. It exposes three endpoints:
 
