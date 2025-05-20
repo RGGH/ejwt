@@ -1,6 +1,18 @@
 
 # Simple JWT Authentication Server
 
+## TL;DR
+
+✅ /get-token is an actual URL exposed by your server.
+
+🌐 Clients make a POST request to that endpoint.
+
+🔐 Your handler generates the JWT and sends it back.
+
+🧾 Later, they use the token to access your protected routes like /secret-view.
+
+---
+
 This is a minimal Actix-Web server in Rust that demonstrates basic JSON Web Token (JWT) authentication. It exposes three endpoints:
 
 - `/public-view`: Publicly accessible.
